@@ -35,3 +35,5 @@ Applications: FIR filters are widely used in:
 Audio and video processing. Communication systems. Image enhancement. Biomedical signal analysis.
 
 #output
+
+![Image](https://github.com/user-attachments/assets/e3a77645-f2b7-4631-8798-ea4dadf58c28)
